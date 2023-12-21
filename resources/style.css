@@ -22,3 +22,24 @@ header a {
     font-weight: 300;
     font-size: 42px;
 }
+
+.main h4 {
+    color: gray;
+    font-size: 21px;
+}
+
+.closing h2{
+    font-weight: 300;
+    font-size: 42;
+}
+
+.closing a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer {
+    text-align: right;
+    color:gray;
+    font-size: 18px;
+}
